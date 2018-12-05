@@ -13,7 +13,7 @@ function hgfsConnect {
     fi
      
 }
-
+#загрузка базы
 function downloadBase {
     path=/home/kuzm/drweb/ 
     lk=/home/kuzm/drweb/agent.key 
